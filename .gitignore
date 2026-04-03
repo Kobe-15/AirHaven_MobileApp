@@ -37,9 +37,6 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-# google services
-google-services.json
-
 # generated native folders
 /ios
 /android
