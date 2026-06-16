@@ -1,9 +1,5 @@
 ﻿# AirHaven — Air Quality Monitoring System
 
-A thesis project developed at Pamantasan ng Lungsod ng Maynila (2025–2026)
-
-## Overview
-
 AirHaven is a cross-platform IoT-based air quality monitoring system that provides real-time AQI data, automated alerts, and ML-based pollution forecasting. Built with React Native and Firebase, it transforms real-time environmental data into clear, actionable insights with an intuitive interface.
 
 ## Tech Stack
